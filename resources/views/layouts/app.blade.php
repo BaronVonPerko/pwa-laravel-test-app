@@ -21,7 +21,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
     <!-- PWA Manifest -->
-    <link rel="manifest" href="{{asset('mainfest.json')}}">
+    <link rel="manifest" href="{{asset('manifest.json')}}">
 </head>
 <body>
     <div id="app">
